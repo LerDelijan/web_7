@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  text: MyString
+  done: false
+  time: 2018-04-07 21:45:41
+  starttime: MyString
+  donetime: 2018-04-07 21:45:41
+
+two:
+  text: MyString
+  done: false
+  time: 2018-04-07 21:45:41
+  starttime: MyString
+  donetime: 2018-04-07 21:45:41
